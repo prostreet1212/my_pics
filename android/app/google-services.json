@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "947589126171",
+    "project_id": "my-pics-be49d",
+    "storage_bucket": "my-pics-be49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947589126171:android:a2c6e86b3b6827ec5300be",
+        "android_client_info": {
+          "package_name": "com.prostreet.my_pics_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947589126171-c2kk5tacnor69guo059uv01gpmjmo1l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZAZ8n0EcNEvRRA2Rod-Shl9byfk3St18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947589126171-c2kk5tacnor69guo059uv01gpmjmo1l9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947589126171-rm3j8rmkc9gv0klre2g04l5s96rasflr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prostreet1212.myPics"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947589126171:android:ac9ec6f95a7718a25300be",
+        "android_client_info": {
+          "package_name": "com.prostreet1212.my_pics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947589126171-r23btemd02nhranb73rhfsbupho6up8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prostreet1212.my_pics",
+            "certificate_hash": "2d7e63b7f0d1b6681fdf7a6553b889772dc1e7ff"
+          }
+        },
+        {
+          "client_id": "947589126171-c2kk5tacnor69guo059uv01gpmjmo1l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZAZ8n0EcNEvRRA2Rod-Shl9byfk3St18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947589126171-c2kk5tacnor69guo059uv01gpmjmo1l9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947589126171-rm3j8rmkc9gv0klre2g04l5s96rasflr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prostreet1212.myPics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
