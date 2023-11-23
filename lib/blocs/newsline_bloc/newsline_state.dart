@@ -2,7 +2,7 @@ part of 'newsline_bloc.dart';
 
 enum AllPostsStatus {
   initial,
-  loading1,
+  loading,
   success,
   failure,
 }
